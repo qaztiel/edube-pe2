@@ -1,3 +1,6 @@
+""""Module 2: Strings, String and List Methods, and Exceptions"""
+
+
 list = [5,1,6,3,8,4,2,9,0]
 
 print(sorted(list))
