@@ -1,4 +1,15 @@
-""""Module 2: Strings, String and List Methods, and Exceptions"""
+""""
+Module 2: Strings, String and List Methods, and Exceptions
+
+Characters, strings and coding standards;
+Strings vs. lists – similarities and differences;
+Lists methods;
+String methods;
+Python's way of handling runtime errors;
+Controlling the flow of errors using try and except;
+Hierarchy of exceptions.
+
+"""
 
 
 list = [5,1,6,3,8,4,2,9,0]
