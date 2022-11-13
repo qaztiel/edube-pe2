@@ -8,6 +8,14 @@ Designing reusable classes and creating objects;
 Inheritance and polymorphism;
 Exceptions as objects.
 
+
+the foundations and basic concepts of object-oriented programming;
+the differences between the procedural and object approaches on the example of the stack;
+properties (instance and class variables, attributes)
+methods (class and object methods, the constructor, parameters, and properties)
+the concept of inheritance (functions, methods, class hierarchies, polymorphism, composition, single vs. multiple inheritance)
+the objective nature of Python exceptions.
+
 """
 
 class Stack:
