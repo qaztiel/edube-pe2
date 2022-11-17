@@ -4,3 +4,11 @@ Generators, iterators and closures;
 Working with file-system, directory tree and files;
 Selected Python Standard Library modules (os, datetime, time, and calendar.)
 """
+
+
+from datetime import datetime
+
+datetime_1 = datetime(2019, 11, 27, 11, 27, 22)
+datetime_2 = datetime(2019, 11, 27, 0, 0, 0)
+
+print(datetime_1- datetime_2)
